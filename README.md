@@ -126,33 +126,6 @@ Loading
 
 If the actual output matches the expected output for the required test combinations, the IC is considered functional.
 
-📁 Repository Structure
-74-Series-IC-Checker/
-│
-├── README.md
-│
-├── Schematic/
-│   └── 74-Series-IC-Checker-Schematic
-│
-├── PCB/
-│   └── 74-Series-IC-Checker-PCB
-│
-├── Gerber/
-│   └── Gerber-Files.zip
-│
-├── Simulation/
-│   └── Tinkercad
-│
-├── Code/
-│   └── Arduino
-│
-├── Images/
-│   ├── Schematic.png
-│   ├── PCB-2D.png
-│   └── PCB-3D.png
-│
-└── BOM/
-    └── Bill-of-Materials.csv
 🚀 Future Improvements
 
 Future versions of the project will expand the testing capability to include:
